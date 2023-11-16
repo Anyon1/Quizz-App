@@ -1,0 +1,7 @@
+
+Bugs:
+    - Check results clickable without answers
+    - Play again Button not working like intended
+    - Answer still changeable after Check results
+    -correct answer not changing color after check results
+
